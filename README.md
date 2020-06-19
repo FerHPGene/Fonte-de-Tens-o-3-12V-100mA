@@ -5,7 +5,7 @@ Projeto de uma fonte de tensão ajustável de 3 a 12 Volts com capacidade de 100
 O projeto deve levar ao desenvolvimento de uma fonte elétrica que transforma a tensão de corrente de uma tomada(127 volts, neste caso) em uma tensão adequada ao circuito que será alimentado pela fonte, estabelecida entre 3 e 12 volts em corrente contínua.
 
 ## O circuito
-![CircuitoELETRONICA_LI](https://user-images.githubusercontent.com/61749461/85098188-4197c200-b1d0-11ea-9195-04ed5a20e351.jpg)
+![CircuitoFONTE](https://user-images.githubusercontent.com/61749461/85100680-1cf31880-b1d7-11ea-8b64-7cc05b509277.png)
 
 ## Link para o projeto no [Falstad](https://falstad.com/circuit/circuitjs.html?cct=$+1+0.000005+19.867427341514983+40+5+43%0Av+16+96+16+256+0+1+60+127+0+0+0.5%0A34+zvoltage%5Cq13+0+1.7143528192808883e-7+0+2+13%0Az+480+320+480+240+2+zvoltage%5Cq13%0Ad+208+96+240+176+2+default%0Ad+176+176+208+96+2+default%0Ad+176+176+208+256+2+default%0Ad+208+256+240+176+2+default%0AT+64+96+208+256+0+4+0.16+-0.16716540700167964+-2.7755575615628914e-17+0.999%0Aw+240+176+384+176+0%0Aw+640+176+432+176+0%0Aw+176+176+176+320+0%0Aw+176+320+384+320+0%0Aw+384+320+480+320+0%0Ar+432+176+480+240+0+1200%0Ac+384+176+384+320+0+0.0005+18.62575113963286%0Aw+480+320+544+320+0%0Aw+384+176+432+176+0%0Aw+544+208+480+240+0%0At+608+240+640+240+0+1+-5.732162754763323+0.714801513534411+100%0A174+544+208+544+256+1+10000+0.005+Resistance%0Aw+592+240+608+240+0%0Aw+592+240+560+240+0%0Aw+640+176+640+224+0%0Aw+544+320+640+320+0%0Ar+640+256+640+320+0+120%0Ar+544+272+544+320+0+5500%0As+16+96+64+96+0+0+false%0Aw+64+256+16+256+0%0Ao+1+32+0+4099+20+0.00625+0+2+1+3%0Ao+23+32+0+4099+20+0.2+1+2+23+3%0Ao+13+32+0+4099+40+3.2+2+2+13+3%0A)
 
@@ -22,4 +22,4 @@ O projeto deve levar ao desenvolvimento de uma fonte elétrica que transforma a 
 |Resistor|2.2KΩ|[R$0,07](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html)|Limitar a tensão final|Valor que leva a tensão final a ser no mínimo 3V|
 |Potenciômetro|5KΩ|[R$1,52](https://www.submarino.com.br/produto/212584212/potenciometro-linear-5k-16mm-eixo-estriado?pfm_carac=potenciometro%205k&pfm_page=search&pfm_pos=grid&pfm_type=search_page)|Variar a tensão|O potenciômetro escolhido consegue alternar a tensão entre 3 e 12V|
 |Transistor NPN|modelo Bc337|[R$0,36](https://produto.mercadolivre.com.br/MLB-1189306444-50-x-transistor-bc337-25-bc337-25-npn-bc337-25-bc337-_JM?quantity=1#position=7&type=item&tracking_id=f3d70a25-c083-4c69-a338-b8571588ee84)|Controlar corrente e tensão de saída|Foi escolhido por suportar até 50V e 800mA|
-|TOTAL|   |[R$]()|   |   |
+|TOTAL|   |R$46,40|   |   |
