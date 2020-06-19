@@ -1,5 +1,5 @@
 # Fonte de Tensão 3-12V 100mA
-Projeto de uma fonte de tensão ajustável de 3 a 12 Volts com capacidade de 100 mA, desenvolvido pelo aluno Fernando Henrique Paes Generich(número USP 11795342) para a disciplina de Eletrônica do curso de Ciências de Computação do ICMC-USP.
+Projeto de uma fonte de tensão ajustável de 3 a 12 Volts com capacidade de 100 mA, desenvolvido pelo aluno Fernando Henrique Paes Generich(número USP 11795342).
 
 ## Objetivo
 O projeto deve levar ao desenvolvimento de uma fonte elétrica que transforma a tensão de corrente de uma tomada(127 volts, neste caso) em uma tensão adequada ao circuito que será alimentado pela fonte, estabelecida entre 3 e 12 volts em corrente contínua.
@@ -23,3 +23,5 @@ O projeto deve levar ao desenvolvimento de uma fonte elétrica que transforma a 
 |Potenciômetro|5KΩ|[R$1,52](https://www.submarino.com.br/produto/212584212/potenciometro-linear-5k-16mm-eixo-estriado?pfm_carac=potenciometro%205k&pfm_page=search&pfm_pos=grid&pfm_type=search_page)|Variar a tensão|O potenciômetro escolhido consegue alternar a tensão entre 3 e 12V|
 |Transistor NPN|modelo Bc337|[R$0,36](https://produto.mercadolivre.com.br/MLB-1189306444-50-x-transistor-bc337-25-bc337-25-npn-bc337-25-bc337-_JM?quantity=1#position=7&type=item&tracking_id=f3d70a25-c083-4c69-a338-b8571588ee84)|Controlar corrente e tensão de saída|Foi escolhido por suportar até 50V e 800mA|
 |TOTAL|   |R$46,40|   |   |
+
+Trabalho proposto pelo professor Eduardo Simões para a matéria de Eletrônica do Curso de Ciência de Computação do Instituto de Ciências Matemáticas e de Computação(ICMC-USP).
