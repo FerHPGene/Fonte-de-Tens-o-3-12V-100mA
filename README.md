@@ -24,4 +24,9 @@ O projeto deve levar ao desenvolvimento de uma fonte elétrica que transforma a 
 |Transistor NPN|modelo Bc337|[R$0,36](https://produto.mercadolivre.com.br/MLB-1189306444-50-x-transistor-bc337-25-bc337-25-npn-bc337-25-bc337-_JM?quantity=1#position=7&type=item&tracking_id=f3d70a25-c083-4c69-a338-b8571588ee84)|Controlar corrente e tensão de saída|Foi escolhido por suportar até 50V e 800mA|
 |TOTAL|   |R$46,40|   |   |
 
+## Projeto no EAGLE
+
+### Schematic
+![image](https://user-images.githubusercontent.com/61749461/88470100-cf9d5180-cece-11ea-824d-2d0ebd4d03ef.png)
+
 Trabalho proposto pelo professor Eduardo Simões para a matéria de Eletrônica do Curso de Ciência de Computação do Instituto de Ciências Matemáticas e de Computação(ICMC-USP).
