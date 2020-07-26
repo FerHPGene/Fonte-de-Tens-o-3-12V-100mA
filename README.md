@@ -26,7 +26,13 @@ O projeto deve levar ao desenvolvimento de uma fonte elétrica que transforma a 
 
 ## Projeto no EAGLE
 
+Foram feitos os projetos esquemático e no PCB da fonte, ambos baseados nos componentes descritos acima, quando disponíveis, e quando não substituídos por componentes semelhantes, com escessão do Transformador que não apresenta modelo no programa.
+
 ### Schematic
 ![image](https://user-images.githubusercontent.com/61749461/88470100-cf9d5180-cece-11ea-824d-2d0ebd4d03ef.png)
+
+### PCB
+![PCBFonte](https://user-images.githubusercontent.com/61749461/88470116-feb3c300-cece-11ea-9d18-eabb4426d7d5.png)
+
 
 Trabalho proposto pelo professor Eduardo Simões para a matéria de Eletrônica do Curso de Ciência de Computação do Instituto de Ciências Matemáticas e de Computação(ICMC-USP).
